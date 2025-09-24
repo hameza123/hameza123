@@ -64,5 +64,3 @@ Seeking to leverage my technical skills in cybersecurity and network defense to 
 ### **Cisco Networking Academy Lab**
 - Enterprise network design and troubleshooting
 - Network supervision and traffic analysis
-
-*Note: Ready to provide detailed project documentation and technical specifications upon request.*
