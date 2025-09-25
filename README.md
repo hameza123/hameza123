@@ -64,3 +64,10 @@ Seeking to leverage my technical skills in cybersecurity and network defense to 
 ### **Cisco Networking Academy Lab**
 - Enterprise network design and troubleshooting
 - Network supervision and traffic analysis
+
+### **Apriori Algorithm Implementation with Python**
+- Frequent Itemset Mining: Discover itemsets that meet minimum support threshold
+- Association Rule Generation: Extract meaningful rules with confidence and lift metrics
+- Market Basket Analysis: Identify product relationships and purchasing patterns
+- Customizable Parameters: Adjust support, confidence, and lift thresholds
+  
