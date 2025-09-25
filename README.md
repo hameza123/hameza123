@@ -64,7 +64,7 @@ Seeking to leverage my technical skills in cybersecurity and network defense to 
 - Enterprise network design and troubleshooting
 - Network supervision and traffic analysis
 
-### **Apriori Algorithm Implementation with Python**
+### **<a href="https://github.com/hameza123/apriori-algorithm-with-python">Apriori Algorithm Implementation with Python</a>**
 - Frequent Itemset Mining: Discover itemsets that meet minimum support threshold
 - Association Rule Generation: Extract meaningful rules with confidence and lift metrics
 - Market Basket Analysis: Identify product relationships and purchasing patterns
