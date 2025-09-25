@@ -51,7 +51,7 @@ Seeking to leverage my technical skills in cybersecurity and network defense to 
 - Designed and implemented a Security Operations Center in virtualized environment (VMware)
 - Configured security monitoring and incident response capabilities
 
-### **Secure WiFi Network Deployment**
+### **<a href="https://github.com/hameza123/Secure-IoT-IT-Network"> Secure WiFi Network Deployment</a>**
 - Implemented critical services including OpenLDAP and RADIUS authentication
 - Established secure IT/Industrial interconnection
 - Designed and troubleshooted enterprise network infrastructure
