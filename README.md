@@ -50,11 +50,10 @@ Seeking to leverage my technical skills in cybersecurity and network defense to 
 ### **<a href="https://github.com/hameza123/On-Premise-SOC/tree/main">On-Premise SOC Deployment with Incident Detection and Response</a>**
 - Designed and implemented a Security Operations Center in virtualized environment (VMware)
 - Configured security monitoring and incident response capabilities
-- Established secure IT/Industrial interconnection
 
 ### **Secure WiFi Network Deployment**
 - Implemented critical services including OpenLDAP and RADIUS authentication
-- Deployed HTTPS secure web services
+- Established secure IT/Industrial interconnection
 - Designed and troubleshooted enterprise network infrastructure
 
 ### **Secure Encryption Solution Development**
