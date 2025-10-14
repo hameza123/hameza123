@@ -41,7 +41,6 @@ Seeking to leverage my technical skills in cybersecurity and network defense to 
 
 ## Certifications
 <div>
-    <img src="https://img.shields.io/badge/-ISO/IEC_27001_Associate-FF0000?&style=for-the-badge&logo=iso&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco_CCNA_1_&_2-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
