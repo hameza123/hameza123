@@ -55,7 +55,7 @@ Seeking to leverage my technical skills in cybersecurity and network defense to 
 - Established secure IT/Industrial interconnection
 - Designed and troubleshooted enterprise network infrastructure
 
-### **Secure Encryption Solution Development**
+### **<a href="https://github.com/hameza123/Secure-Encryption-Solution-Development/tree/main">Secure Encryption Solution Development</a>**
 - Developed symmetric/asymmetric encryption solution using RSA/AES algorithms
 - Implemented secure web encryption methodologies
 
