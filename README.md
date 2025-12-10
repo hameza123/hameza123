@@ -1,6 +1,7 @@
 # Hello, I'm SecLice
 <a href="https://linkedin.com/in/hamzarahmani1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="http://hameza123.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="http://hameza123.github.io">  <img src="https://img.shields.io/badge/My-Website-blue?style=for-the-badge&logo=react&logoColor=white" /></a>
+
 I am a final-year Cybersecurity Engineering student with hands-on experience in SOC deployment, network security, and incident response. Passionate about protecting digital infrastructure through practical security implementations and threat detection methodologies.
 
 ## Objective
