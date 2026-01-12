@@ -15,7 +15,7 @@ Seeking to leverage my technical skills in cybersecurity and network defense to 
 | **Network Security** | Cisco Networking, WiFi Security, RADIUS, Network Monitoring, Traffic Analysis |
 | **Cryptography** | RSA/AES Encryption, Symmetric/Asymmetric Cryptography, Secure Web Implementation |
 | **Security Services** | OpenLDAP, HTTPS, IT/Industrial Security Interconnection |
-| **Security Standards** | ISO/IEC 27001 Implementation, Information Security Management |
+| **Security Standards** | Ebios RM, ISO/IEC 27001 Implementation, Information Security Management |
 
 ## Tools & Technologies
 
